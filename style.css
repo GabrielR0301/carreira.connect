@@ -7,3 +7,11 @@ header {  display: flex;
     color: white;
     padding: 3px 12px;
 }
+
+.cabecalho{
+    display: flex;
+}
+
+.titulo-principal{
+    padding-left: 12px;
+}
