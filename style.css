@@ -17,6 +17,9 @@ header {  display: flex;
 
 .titulo-principal{
     padding-left: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .logo{
