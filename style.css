@@ -17,11 +17,10 @@ header {  display: flex;
 
 .titulo-principal{
     padding-left: 12px;
-    width: 8%;
 }
 
 .logo{
-    width: 17%;
+    width: 12%;
 }
 
 .menu{
