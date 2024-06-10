@@ -19,13 +19,8 @@ header {  display: flex;
     padding-left: 12px;
 }
 
-.sla{
-    display: none;
-}
 
 @media screen and (min-width: 1024px){
     
-    .sla{
-        display: block;
-    }
+    
 }
