@@ -32,6 +32,7 @@ header {  display: flex;
 
 .imagem2{
     width: 100%;
+    padding: 500px;
     background-image: url(/imagem\ 2.png);
 }
 
