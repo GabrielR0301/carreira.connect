@@ -33,6 +33,7 @@ header {  display: flex;
 .imagem{
     position: relative;
     text-align: center;
+    width: 100%;
 }
 
 .texto{
