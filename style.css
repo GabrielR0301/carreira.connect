@@ -32,6 +32,7 @@ header {  display: flex;
 
 .imagem2{
     width: 100%;
+    background-image: url(/imagem\ 2.png);
 }
 
 @media screen and (min-width: 1024px){
