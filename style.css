@@ -30,12 +30,6 @@ header {  display: flex;
     width: 6%;
 }
 
-.imagem{
-    position: relative;
-    text-align: center;
-    width: 100%;
-}
-
 .texto{
     position: absolute;
     top: 50%;
