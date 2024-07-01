@@ -54,6 +54,13 @@ header {  display: flex;
     text-align: center;
 }
 
+.imagem-exodo{
+    width: 98%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 
 @media screen and (min-width: 1024px){
