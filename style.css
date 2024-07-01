@@ -8,7 +8,7 @@ header {  display: flex;
     align-items: center;
     background-color: #04a319;
     color: white;
-    padding: 3px 12px;
+    padding: 9px 18px;
 }
 
 .cabecalho{
@@ -16,7 +16,7 @@ header {  display: flex;
 }
 
 .titulo-principal{
-    padding-left: 18px;
+    padding-left: 12px;
     display: flex;
     justify-content: space-between;
     align-items: center;
