@@ -31,12 +31,16 @@ header {  display: flex;
 }
 
 .quem-somos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
     margin: 40px 0;
     font-size: 25px;
 }
 
 .paragrafo1{
-    
+
 }
 
 
